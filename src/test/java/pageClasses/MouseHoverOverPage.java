@@ -20,6 +20,7 @@ public class MouseHoverOverPage {
         Actions myAction = new Actions(driver);
         myAction.moveToElement(electronicsPath).build().perform();
         //new Actions(driver).moveToElement(electronicsPath).build().perform();
+        System.out.println();
 
     }
 }

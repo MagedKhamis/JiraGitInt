@@ -35,5 +35,6 @@ public class AlertPage {
         System.out.println(my2ndText);
         driver.switchTo().alert().accept();
         System.out.println("Hello");
+
     }
 }
