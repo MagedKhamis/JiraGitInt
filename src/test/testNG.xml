@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="UpRightTest">
+    <test name="SignUpButton">
+        <classes>
+            <class name="testClasses.UpRightPracticeTest"></class>
+        </classes>
+    </test>
+</suite>
