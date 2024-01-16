@@ -205,7 +205,6 @@ public void jsScrollToView() throws InterruptedException {
     driver.switchTo().frame(0);
     Thread.sleep(3000);
     System.out.println();
-    System.out.println();
 
     WebElement view = driver.findElement(By.xpath("//a[@class='nav-link mr-2 deskvw']"));
 
